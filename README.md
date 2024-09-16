@@ -1,8 +1,4 @@
 
-![aaz](https://github.com/user-attachments/assets/e24a35a9-3c4d-42ed-9f52-e1949f4fb2f9)
-
-
-
 <h1 align="center">Hi, I'm Muhammet Emin Caliskan</h1>
 <h3 align="center">Junior .NET Developer</h3>
 
