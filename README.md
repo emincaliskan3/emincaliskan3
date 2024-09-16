@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi, I'm Muhammet Emin Caliskan</h1>
-<h3 align="center">Junior .NET Developer</h3>
+<h3 align="center">Junior Full Stack Developer</h3>
+
+![aaz](https://github.com/user-attachments/assets/369a50ef-3c7b-4243-94df-94cb014f6e8d)
 
 
 ## Merhaba! 👋
