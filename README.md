@@ -24,6 +24,7 @@ Jr. .NET Developer olarak yazılım dünyasında heyecan verici bir yolculuğa �
 - 📬 [Postman](https://www.getpostman.com/)
 - 📜 [Swagger](https://swagger.io/)
 - 🔄 [CQRS Design Pattern](https://www.dotnettricks.com/learn/designpatterns/cqrs-design-pattern-dotnet)
+- 🔗 [RapidAPI](https://rapidapi.com/)
 - 🗃️ [MSSQL](https://www.microsoft.com/en-us/sql-server)
 - 📂 [Repository Design Pattern](https://martinfowler.com/eaaCatalog/repository.html)
 - 🔒 [Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data)
