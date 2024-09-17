@@ -47,9 +47,5 @@ Birlikte çalışma fırsatı bulursak, yeni projelerde yer almak ve beraber kal
   </a>
 </p>
 
-
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=emincaliskan3&theme=black-ice&background=000000&stroke=ffffff&ring=ff6600&fire=ff6600&currStreakLabel=ff6600" alt="emincaliskan3" /></p>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emincaliskan3&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ff6600&text_color=ffffff&icon_color=ffcc00" alt="emincaliskan3" /></p>
